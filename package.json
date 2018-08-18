@@ -1,0 +1,13 @@
+{
+  "name": "bookmarklet-plugin",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/m3g4p0p/bookmarklet-plugin.git"
+  },
+  "author": {
+    "name": "m3g4p0p"
+  },
+  "main": "./lib/index.js"
+}
